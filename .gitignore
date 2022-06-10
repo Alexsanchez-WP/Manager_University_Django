@@ -3,7 +3,7 @@
 __pycache__/
 
 #Files
-commands.md
+.evn
 
 # Data Base
 *.sqlite3

@@ -1,9 +1,13 @@
 # Directories
-.venv
+.venv/
 __pycache__/
+migrations/
 
 #Files
 commands.md
+.env
 
 # Data Base
 *.sqlite3
+*.sqlite
+*.db

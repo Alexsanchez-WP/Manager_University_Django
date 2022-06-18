@@ -4,8 +4,7 @@ __pycache__/
 migrations/
 
 #Files
-commands.md
-.env
+.evn
 
 # Data Base
 *.sqlite3
